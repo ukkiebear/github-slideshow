@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I hope this slide is readable!!  This is GITHUB Ukkiebear slide :) 
 Use the left arrow to go back!
